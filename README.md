@@ -10,7 +10,7 @@
 ### ✨ Connect with me!
 
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Gmail" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>][gmail]
+[<img align="left" alt="Gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="padding-right:10px;">][gmail]
 
 <br/>
 
