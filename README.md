@@ -1,4 +1,4 @@
-### Hi, I'm Lucy! 👋🏻
+# Hi, I'm Lucy! 👋🏻
 
 ### I'm a Full Stack Developer, and a Multimedial Artist from Argentina 🌎💖!
 
