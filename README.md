@@ -10,9 +10,8 @@
 ### ✨ Connect with me!
 
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Gmail" width="26px" style="padding-top:4px; padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>][gmail]
+[<img align="left" alt="Gmail" width="26px" style="padding-top:6px; padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>][gmail]
 
-<br/>
 <br/>
 
 ### 📍 Languages and Tools:
@@ -32,7 +31,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br/>
-<br/>
+
 ### 🚀 Projects:
 
 - Seeko Studios website: [SEEKO STUDIOS][seekostudios]
