@@ -33,8 +33,8 @@
 
 ### 🚀 Projects:
 
-- Seeko Studios website: [SEEKO STUDIOS][seekostudios]
-- A website I did for university, about "La casa de Papel": [LA CASA DE PAPEL][lacasadepapel]
+- [SEEKO STUDIOS][seekostudios] website, a game studio!
+- A website I did for university, about "[LA CASA DE PAPEL][lacasadepapel]"
 
 
 ### 🔹 GitHub Stats:
