@@ -10,9 +10,8 @@
 ### ✨ Connect with me!
 
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Gmail" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="padding-right:10px;" />] luciabelenterrazas@gmail.com
+[<img align="left" alt="Gmail" width="25px" style="padding-top:4px; padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>][gmail]
 
-<br />
 
 ### 📍 Languages and Tools:
 
@@ -30,8 +29,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-<br />
-
 ### 🚀 Projects:
 
 - Seeko Studios website: [SEEKO STUDIOS][seekostudios]
@@ -45,4 +42,4 @@
 [linkedin]: https://www.linkedin.com/in/luciabelenterrazas
 [seekostudios]: https://proyecto-seeko.vercel.app
 [lacasadepapel]: https://tp2-informatica.vercel.app
-[gmail]: luciabelenterrazas@gmail.com
+[gmail]: mailto:luciabelenterrazas@gmail.com
