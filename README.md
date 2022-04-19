@@ -39,7 +39,7 @@
 
 
 ### 🔹 GitHub Stats:
-<img align="left" alt="terrazas-lucia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=terrazas-lucia&show_icons=true&hide_border=false&title_color=e3a6be&icon_color=e3a6be&bg_color=360619&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="terrazas-lucia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=terrazas-lucia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
 [henry]: https://www.soyhenry.com
