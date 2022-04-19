@@ -46,4 +46,4 @@
 [linkedin]: https://www.linkedin.com/in/luciabelenterrazas
 [seekostudios]: https://proyecto-seeko.vercel.app
 [lacasadepapel]: https://tp2-informatica.vercel.app
-[gmail]: mailto:luciabelenterrazas@gmail.com
+[gmail]: luciabelenterrazas@gmail.com
