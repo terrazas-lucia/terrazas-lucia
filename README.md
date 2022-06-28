@@ -36,6 +36,7 @@
 
 - [SEEKO STUDIOS][seekostudios] website, a game studio!
 - A website I did for university, about "[LA CASA DE PAPEL][lacasadepapel]"
+- [espectro][espectro], an art project about what feminized bodies can suffer on the streets.
 
 
 ### 🔹 GitHub Stats:
@@ -46,4 +47,5 @@
 [linkedin]: https://www.linkedin.com/in/luciabelenterrazas
 [seekostudios]: https://proyecto-seeko.vercel.app
 [lacasadepapel]: https://tp2-informatica.vercel.app
+[espectro]: https://espectro.vercel.app
 [gmail]: luciabelenterrazas@gmail.com
