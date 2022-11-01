@@ -3,7 +3,7 @@
 ### I'm a Full Stack Developer, and a Multimedial Artist from Argentina 🌎💖!
 
 - ⭐ I'm currently working on my individual project for [HENRY][henry]!
-- 📌 I'm currently looking for a job as a Front End Developer!
+- 📌 I'm currently working as a Production Artist for [Wunderman Thompson][wundermanthompson]!
 - 🎀 Fun fact: I'm an illustrator and a color pink enthusiast
 - 🥳 2022 goals: Have my own website and learn NEXT.js!
 
@@ -49,3 +49,4 @@
 [lacasadepapel]: https://tp2-informatica.vercel.app
 [espectro]: https://espectro.vercel.app
 [gmail]: luciabelenterrazas@gmail.com
+[wundermanthompson]: https://www.wundermanthompson.com/
