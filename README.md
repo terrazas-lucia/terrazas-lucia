@@ -4,7 +4,7 @@
 
 - 📌 I'm currently working as a Production Artist for [Wunderman Thompson][wundermanthompson]!
 - 🎀 Fun fact: I'm an illustrator and a color pink enthusiast
-- 🥳 2022 goals: Have my own website!
+- 🥳 2023 goals: Have my own website!
 
 ### ✨ Connect with me!
 
