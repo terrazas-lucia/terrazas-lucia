@@ -1,8 +1,8 @@
-# Hi, I'm Lucy! 👋🏻
+# Hi, I'm Luci! 👋🏻
 
-### I'm a Full Stack Developer, and a Multimedial Artist from Argentina 🌎💖!
+### I'm a Front-end Developer, and a Multimedial Artist from Argentina 🌎💖!
 
-- 📌 I'm currently working as a Production Artist for [Wunderman Thompson][wundermanthompson]!
+- 📌 I'm currently working as a Production Artist for [VML][vml]!
 - 🎀 Fun fact: I'm an illustrator and a color pink enthusiast
 
 ### ✨ Connect with me!
@@ -47,4 +47,4 @@
 [lacasadepapel]: https://tp2-informatica.vercel.app
 [espectro]: https://espectro.vercel.app
 [gmail]: luciabelenterrazas@gmail.com
-[wundermanthompson]: https://www.wundermanthompson.com/
+[vml]: https://www.vml.com/argentina
