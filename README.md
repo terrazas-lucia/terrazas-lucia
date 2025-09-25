@@ -2,7 +2,7 @@
 
 ### I'm a Front-end Developer, and a Multimedial Artist from Argentina 🌎💖!
 
-- 📌 I'm currently working as a Production Artist for [VML][vml]!
+- 📌 I'm currently working as a QA Analyst for [VML][vml]!
 - 🎀 Fun fact: I'm an illustrator and a color pink enthusiast
 
 ### ✨ Connect with me!
